@@ -8,15 +8,17 @@ html {
 
 body {
     min-height: 100vh;
-    background-color: #f4b482;
+    background-color: #664b3d;
     background-image: url('images/sky-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     line-height: 1.5rem;
     /* Part 1Exercise 1 */
+    font-family: 'Libre Franklin,' sans-serif;
 
 
     /* Part 1 Exercise 4 */
+    text-align: center;
 
 }
 
