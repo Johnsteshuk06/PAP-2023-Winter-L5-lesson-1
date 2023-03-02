@@ -72,7 +72,9 @@ main {
     width: 30%;
     background-color: #ece4d9;
     border: solid 4px #664b3d;
-    /* Part 1 Exercise 7 */
+    /* Changed margin and padding */
+    margin: 0 1% 40px 1%;
+    padding: 30px;
 
     /* Part 1 Exercise 8 */
 
