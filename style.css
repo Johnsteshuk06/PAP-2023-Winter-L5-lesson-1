@@ -63,13 +63,14 @@ main {
     padding: 3rem 0;
     width: 90%;
     max-width: 1200px;
-    /* Part 1 Exercise 9 */
+    /* set margin to auto to center the texts */
+    margin: auto;
 
 
 }
 
 .machine {
-    width: 30%;
+    width: 20%;
     background-color: #ece4d9;
     border: solid 4px #664b3d;
     /* Changed margin and padding */
@@ -77,7 +78,8 @@ main {
     padding: 30px;
 
     /* Part 1 Exercise 8 */
-
+    display: inline-block;
+    vertical-align: top;
 
 }
 
