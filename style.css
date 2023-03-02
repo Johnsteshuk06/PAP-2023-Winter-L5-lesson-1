@@ -1,6 +1,9 @@
 /* Part 1 Exercise 5 
 
 */
+/* *{
+    border: solid 1px black;
+} */
 
 html {
     height: 100%;
@@ -13,16 +16,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     line-height: 1.5rem;
-    /* Part 1Exercise 1 */
+    /* changed the font and aligned text to center */
     font-family: 'Libre Franklin,' sans-serif;
-
-
-    /* Part 1 Exercise 4 */
     text-align: center;
+    /* Part 1 Exercise 4 */
+    margin: 0;
 
+   
 }
 
 /* Part 1 Exercise 2 */
+#machine {
+    color: rgb(104, 104, 159);
+}
 
 
 /* Part 1 Exercise 3 */
